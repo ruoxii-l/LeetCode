@@ -1,4 +1,5 @@
 /**
+ * Easy
  * Runtime: 115ms beats 40.63%
  * Memory: 42.5 MB beats 60.20%
  */
