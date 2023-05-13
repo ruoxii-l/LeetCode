@@ -17,15 +17,15 @@
  * @return {boolean}
  */
 var hasCycle = function (head) {
-    if (!head) return false
+  if (!head) return false;
 
-    while (head.next) {
-        head.val = null
-        if (head.next.val === null) {
-            return true
-        }
-        head = head.next
+  while (head.next) {
+    head.val = null;
+    if (head.next.val === null) {
+      return true;
     }
+    head = head.next;
+  }
 
-    return false
+  return false;
 };
