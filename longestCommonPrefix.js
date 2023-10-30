@@ -1,7 +1,7 @@
 /**
  * Easy
- * Runtime: 68 ms beats 33.40%
- * Memory: 44 MB beats 15.64%
+ * Runtime: 68 ms beats 6.93%
+ * Memory: 44 MB beats 13.52%
  */
 
 /**
